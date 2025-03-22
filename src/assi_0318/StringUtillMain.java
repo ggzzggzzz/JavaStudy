@@ -17,8 +17,8 @@ public class StringUtillMain {
 		System.out.println(su.reverseString("!!!dlrow olleH"));
 		System.out.println(su.toUpperString("hello"));
 		System.out.println(su.toLowerString("HeLLO"));
-		System.out.println(su.checkChar(str, 'w'));
-		System.out.println(su.compareTo("asdasd", "asdasd"));
+		System.out.println(su.compareTo("asdasd", "asdasa"));
+		System.out.println(su.checkChar(str, 'a'));
 	}
 
 }
